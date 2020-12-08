@@ -11,4 +11,4 @@ La idea original de hacer este control de temperatura fueron dos:
  
  Me convenció el chocolate.
  
- -con amor, Agustina Pizarro.
+ -made with meraki, Agustina Pizarro.
